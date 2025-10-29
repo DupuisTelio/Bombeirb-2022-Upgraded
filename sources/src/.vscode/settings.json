@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "window.h": "c",
+        "iterator": "c",
+        "hash_map": "c",
+        "deque": "c",
+        "list": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "initializer_list": "c",
+        "array": "c",
+        "hashtable": "c",
+        "sdl.h": "c",
+        "sdl_image.h": "c",
+        "assert.h": "c"
+    }
+}
